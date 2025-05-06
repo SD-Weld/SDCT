@@ -2,7 +2,7 @@
 We have made the source code of the SDCT method publicly available.
 
 # Dataset
-We have made our dataset public. The dataset is only used for academic purposes. Dataset can be found at [BaiduYun Drive](https://pan.baidu.com/s/1X6nb54Q9YltpsNMWcbNbdQ?pwd=3ak6) (code: 3ak6).
+We have made our dataset public. The dataset is only used for academic purposes. If you have used our dataset, please refer to our article. Dataset can be found at [BaiduYun Drive](https://pan.baidu.com/s/1X6nb54Q9YltpsNMWcbNbdQ?pwd=3ak6) (code: 3ak6).
 
 
 ## 0. Main Environments

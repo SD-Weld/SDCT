@@ -19,13 +19,14 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 ```
 
 # Demo and other methods
-Our unsupervised dynamic image screening method https://github.com/Weld-det/TRDM (It has the highest screening accuracy and the best effect)
 
-Our multi-task defect detection method https://github.com/MT-weld/MTDF (This contains a large number of actual on-site videos and practical application cases)
+Our unsupervised static image anomaly detection method https://github.com/aoihd/RSM (It combines the normalizing flow and the reconstruction mechanism. Our initial model, for the first time, applied the unsupervised anomaly detection method to the spiral weld image in practice, and obtained a good detection effect.)
 
-Our unsupervised static image anomaly detection method https://github.com/aoihd/RSM (It combines the normalizing flow and the reconstruction mechanism)
+Our unsupervised dynamic image screening method https://github.com/Weld-det/TRDM (This is an iterative version of the static unsupervised anomaly detection method. The proposed model has the ability of dynamic fuzzy weld image screening.  It has the highest screening accuracy and the best effect)
 
+Our multi-task defect detection method https://github.com/MT-weld/MTDF (This contains a large number of actual on-site videos and practical application cases. A multi-task defect detection method is more conducive to the integration of the model in practical applications and software)
 
+Our fine-grained tiny defect detection method under static Static working condition https://github.com/SD-Weld/SDCT  (It has an outstanding ability to locate porosity and circular inclusion defects.) 
 
 
 

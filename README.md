@@ -20,7 +20,9 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 
 # Demo and other methods
 Our unsupervised dynamic image screening method https://github.com/Weld-det/TRDM (It has the highest screening accuracy and the best effect)
+
 Our multi-task defect detection method https://github.com/MT-weld/MTDF (This contains a large number of actual on-site videos and practical application cases)
+
 Our unsupervised static image anomaly detection method https://github.com/aoihd/RSM (It combines the normalizing flow and the reconstruction mechanism)
 
 

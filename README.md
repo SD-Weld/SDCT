@@ -4,7 +4,7 @@ We have made the source code of the SDCT method publicly available.
 # Dataset
 We have made our dataset public. The dataset is only used for academic purposes. If you have used our dataset, please refer to our article. Dataset can be found at [BaiduYun Drive](https://pan.baidu.com/s/1Gn1qrD8DvLMGfIS49_04vQ?pwd=wmvx) (code:wmvx ).
 # Code
-The SDCT Code can be found at [BaiduYun DriveT](https://pan.baidu.com/s/1AC9A6d88Roi05yXgJlGScQ?pwd=SDCT) (code:SDCT)
+The SDCT Code can be found at [BaiduYun Drive](https://pan.baidu.com/s/1AC9A6d88Roi05yXgJlGScQ?pwd=SDCT) (code:SDCT)
 
 ## 0. Main Environments
 ```bash
